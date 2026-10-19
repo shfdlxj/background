@@ -11,7 +11,7 @@ Win+Tab 가상 데스크톱마다 다른 이미지를 보여줄 수 있고, 끄�
 ## 설치
 
 ```
-git clone https://github.com/doyeon789/background.git
+git clone https://github.com/shfdlxj/background.git
 ```
 
 또는 GitHub에서 **Code → Download ZIP**으로 받아 압축을 풉니다.
