@@ -1,0 +1,12 @@
+# 실행 중에 생기는 데스크톱별 설정
+desktops.txt
+
+# 각자 넣는 이미지는 올리지 않음 (예시 이미지만 포함)
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tif
+*.tiff
+!Picture1.png
